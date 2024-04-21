@@ -3,6 +3,7 @@
 **Problem Statement:** To utilize Twitter feed to carry out the sentimental analysis on the new strain of COVID-19.
 
 **Data:** Downloaded data from : https://drive.google.com/uc?id=11LWo5nagSmC72hOJM9lm2l05sdQxt4rf
+
 **Filename:** corona_tweets.csv [attaching the csv file too for reference]
 
 **Aim:** To build a simple ML Logistic Regression model to analyse the Sentiment of the tweets. 
